@@ -8,6 +8,8 @@
 import UIKit
 
 class AlertController: UIAlertController {
+    
+    let one = 1
 
     func actionWIthTaskList() {
                 
